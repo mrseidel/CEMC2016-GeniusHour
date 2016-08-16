@@ -1,0 +1,243 @@
+body {
+background: url("http://esportlounge.com/images/bg.png");
+background-color:#999999;
+background-repeat:repeat;
+font-family: Tahoma,sans-serif;
+color:#333;
+margin:0;
+padding:0;
+}
+
+#form{
+width:300px;
+float:right;
+}
+
+#wrapper {
+width:980px;
+/*background-color:#909090;*/
+background-color:#FFFFFF; 
+margin:0 auto;
+border-left:0px solid #FFFFFF;
+border-right:0px solid #FFFFFF;
+}
+
+
+#header {
+height:128px;
+/*border-bottom:1px solid #ccc;
+border-top:1px solid #ccc;
+margin:0px auto;*/
+}
+
+#header h2 {
+height:10px;
+}
+
+#strip {
+width:940px;
+height:200px;
+margin:0px auto;
+background-color:#909090;
+}
+
+
+#content {
+width:270;
+float:left;
+vertical-align:middle;
+overflow:hidden;
+text-align:center;
+}
+
+#logo{
+padding-top:25px;
+padding-bottom:7px;
+padding-left:20px;
+}
+
+.gameevents {
+	width: 92%;
+	float: left;
+	border-bottom-style:1px solid red;
+	-webkit-border-radius: 3px;
+	border-radius: 2px 2px;
+	margin: 0.65em 1.5%;
+	background-color:#B0B0B0;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+	-moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+	-webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+	font-size:x-small;
+		
+}
+
+.left-games {
+	width:915px;
+	/*font-size: 14px;*/
+	padding-bottom: 10px;
+	text-align:center;
+	
+}
+
+.indiv_games p {
+	line-height: 50px;
+}
+
+.indiv_games {
+	background-color:#B0B0B0;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+	width: 270px;
+    -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+    -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+	-webkit-border-radius: 3px;
+	border-radius: 2px 2px;
+	word-wrap: break-word;
+	padding-top: 3px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+
+.indiv_games_timeleft {
+	
+	color: #bb88dd;
+	text-align: right;
+	font-size: small;
+	border-bottom-width: 2px;
+	border-bottom-color: white;
+	border-bottom-style: solid;
+}
+
+.right-tournaments {
+	padding-left:20px;
+	
+	width:915px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#tournament-banner {
+	padding-top:20px;
+	
+}
+
+#description {
+	float:left;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.events {
+  width: 100%;
+   float: right;
+  -webkit-border-radius: 3px;
+  border-radius: 2px 2px;
+  margin: 0.65em 1.5%;
+  background-color:#B0B0B0;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+  -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+  font-size:x-small;
+}
+
+.games {
+	color:#fff;
+  width: 915px;
+  float: left;
+  padding-left:20px;
+  -webkit-border-radius: 1px;
+  padding-left:26px;
+  border-radius: 2px 2px;
+  margin: 0.65em 0.5%;
+  margin-left: 20px;
+  margin-top: 5px;
+  background-color:#282828;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+  -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+  -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.30);
+  
+
+}
+
+
+#nav {
+background:url('http://esportlounge.com/images/navigation.png');
+width:940px;
+height:53px;
+margin-left:auto;
+margin-right:auto;
+line-height:53px;
+color:#fff;
+text-align: center;
+text-decoration:none;
+}
+
+#nav a {text-decoration:none;}
+
+#nav ul {
+margin-left:3px;
+text-shadow:#000 0px 1px;
+}
+#nav ul li {
+float:left;
+list-style-type:none;
+}
+
+#nav ul li a {
+color:#a6a5a5;
+padding-left:26px;
+padding-right:27Px;
+height:51px;
+display:block;
+margin-top:1px;
+margin-left:-1px;
+}
+
+#nav ul li a:hover {
+	background:rgba(0, 0, 0, .25);
+	-moz-box-shadow: inset 0 0 10px #000000;
+   -webkit-box-shadow: nset 0 0 10px #000000;
+   box-shadow: inset 0 0 10px #000000;
+   margin-left:-1px;
+   color:#fff;
+   text-decoration:none;
+   text-align: center;
+}
+
+
+#footer {
+background-color:#909090;
+clear:both;
+width:100%;
+height:75px;
+border-top:1px solid #ccc;
+}
+
+#footer p {
+padding:10px;
+}
+
+.right-tournaments p{
+    margin: 0;
+    padding: 0;
+}
+
+.left-games p{
+	padding:5px;
+	text-align:center;
+}
+
+.games h1{
+	color:#B0B0B0;
+	text-align: center;
+}
+
+.games p {
+	color:#B0B0B0;
+	text-align:center;
+	
+}

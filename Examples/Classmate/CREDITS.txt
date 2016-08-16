@@ -1,0 +1,11 @@
+https://docs.python.org/2/using/cmdline.html
+file:///C:/Python27/Lib/site-packages/wx-3.0-msw/docs/MigrationGuide.html
+https://code.google.com/p/gui2py/source/browse/sample.pyw
+http://www.tutorialspoint.com/python/tk_button.htm
+http://stackoverflow.com/questions/10927234/setting-the-position-on-a-button-in-python
+http://www.secnetix.de/olli/Python/lambda_functions.hawk
+http://www.daniweb.com/software-development/python/threads/166751/tkinter-button-widget-passing-parameter-to-function
+http://stackoverflow.com/questions/15457504/python-how-to-set-font-size-of-tkinter-text
+http://effbot.org/tkinterbook/label.htm
+http://stackoverflow.com/questions/9987624/how-to-close-a-tkinter-window-by-pressing-a-button
+#TYPL
