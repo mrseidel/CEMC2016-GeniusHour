@@ -184,7 +184,7 @@ void draw(){
     textSize(14);
     fill(0,0,0);
     textAlign(LEFT,TOP);
-    String credits = "Completed for Mr.Seidel's ICS4U0 course.\n\nCreated by:\nAmy Zeng\nAllen Ly\nClarice Zhu\nGary Lin";
+    String credits = "Completed for Mr.Seidel's ICS4U0 course.\n\nCreated by:\nA.Z.\nA.L.\nC.Z.\nG.L.";
     text(credits,0,0);
 
     //Check for game start command.
